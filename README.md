@@ -76,4 +76,4 @@ This enables comparison of hotel performance across cities and properties.
 
 ## Dashboard Preview
 
-![Hospitality Dashboard](Hospitality_Dashboard.png)
+![Hospitality Dashboard](https://github.com/Harshnd2004/Hospitality-Revenue-Analysis-Project/blob/main/Snapshot%20of%20Hospitality%20dashboard.PNG)
